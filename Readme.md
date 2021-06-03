@@ -1,0 +1,1 @@
+Esse repositório foi criado para os projetos e exercícios desenvolvidos no curso de JavaScript básico do Curso em Video.
